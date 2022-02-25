@@ -9,23 +9,19 @@ My goal was to build an online classroom application that high schools would use
 
 ### Frontend
 
-- Some component code: [link to stateful logic]
-- UI components: [link]
+- Some stateful code: [Click here](https://github.com/Lambertyubin/e-Learning-platform-frontend/blob/main/src/components/course/Course.js#L96)
+- UI components: [Click here](https://github.com/Lambertyubin/e-Learning-platform-frontend/blob/main/src/components/course/Course.js#L94)
 
   The application fetched data from a backend API that I built as part of the project.
 
-- Requests to API for authentication: [link]
-- Requests to API for course content: [link]
+- Requests to API for authentication: [Click here](https://github.com/Lambertyubin/e-Learning-platform-frontend/blob/main/src/components/auth/api-auth.js#L3)
+- Requests to API for course content: [Click here](https://github.com/Lambertyubin/e-Learning-platform-frontend/blob/main/src/components/auth/api-auth.js#L3)
 
 - Integration tests using React Testing Library [link to example test]
 
 ### Backend
 
-- Express.js middleware: [link]
-- API entry routes: [link to routes]
-- Example of Database model with Mongoose:
-- Application logic to retrieve data from the MongoDB database: [link]
-- I tested this API's CRUD operations using Postman
+- [Link to Backend](https://github.com/Lambertyubin/e_learning_backend)
 
 ## Why I built the project this way
 
