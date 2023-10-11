@@ -1,4 +1,4 @@
-## How I worked on this project
+## How I worked on this project - updated
 
 My goal was to build an online classroom application that high schools would use to complement their on-campus lessons.
 
